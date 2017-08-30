@@ -1,0 +1,7 @@
+# other
+.tmp
+.idea
+*.iml
+/build
+/report
+.gradle
